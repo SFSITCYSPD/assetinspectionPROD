@@ -1,0 +1,13 @@
+{
+    "@react-native-community/netinfo": "5.9.7",
+    "react-native-view-shot": "3.1.2",
+    "react-native-material-menu": "1.2.0",
+    "@react-native-community/async-storage": "1.12.1",
+    "@react-native-community/geolocation": "2.0.2",
+    "react-native-geolocation-service": "5.2.0",
+    "react-native-image-picker": "5.0.1",
+    "react-native-localize": "1.4.2",
+    "react-native-permissions": "3.3.1",
+    "@react-native-community/cameraroll": "4.0.1",
+    "react-native-mock-location-detector": "^2.0.0"
+}

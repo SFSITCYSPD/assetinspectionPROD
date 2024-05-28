@@ -1,0 +1,10 @@
+PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
+
+BUNDLE_DISPLAY_NAME = Asset Inspection
+BUNDLE_IDENTIFIER = com.siemens.assetinspection
+
+RUNTIME_URL = https:\/\/assetinspection.mx.lowcode.siemens.cloud/
+
+PRODUCT_NAME = AssetInspection
+
+HERMES_ENABLED = NO
